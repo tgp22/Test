@@ -1,0 +1,1 @@
+7269b928877db89ad1c0643c0757d7875a37bc6169501adf51ae042b0a9fc2b4  ./device_dynamic_data.json
