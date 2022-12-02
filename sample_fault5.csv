@@ -1,0 +1,5 @@
+Hardware,RAM Failure
+Software,Accessing the registers
+Software,Ethernet request/response timeout
+Hardware,EMMC Failure
+Hardware,PMIC Failure

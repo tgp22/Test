@@ -1,0 +1,5 @@
+Hardware,PMIC Failure
+Hardware,RAM Failure
+Thermal,Thermal Mitigation Level Activated
+Software,FOTA installation on Base SW
+Software,Accessing the registers
