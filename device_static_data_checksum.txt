@@ -1,1 +1,0 @@
-7ed7d627a9db8a2a803988b1b112dc8c5e3eb485929c3963f4ea8928914a9898  ./Test-Device_Parameter_Checksum/device_static_data.json
