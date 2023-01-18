@@ -1,0 +1,10 @@
+{
+	"Device_Name": "COSMOS",
+	"Device_Type": "4",
+	"Supplier_Identifier_Code": "ACBS",
+	"ECU_Base_Variant_ID": "61699",
+	"ECU_Variant_ID": "61699",
+	"Access_ID":"9",
+	"ECM_Code": "0000000000",
+	"Product_ID": "BME"
+}
